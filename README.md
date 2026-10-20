@@ -7,7 +7,7 @@ Es geht los mit der Herleitung des Impuls- und des Energieoperators und endet be
 
 Hier möchte ich jeden Schritt nachvollziehen und den Weg dokumentieren.
 
-Es werden viele Formeln fallen und Grafiken werden über Pysthon eingefügt.
+Es werden viele Formeln fallen und Grafiken werden über Python eingefügt.
 
 
 Mit freundlichen Grüßen
