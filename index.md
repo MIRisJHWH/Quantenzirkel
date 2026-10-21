@@ -114,7 +114,6 @@ Das Integral muss verschwinden!
 
 ```math
 -\frac{m \omega }{i} ( t v^2 - 2 \int vt \, dv ) = \frac{m \omega}{i} ( t v^2 - 2 \int vt \, dv )
-```
 
 
 Denn wenn das negative Element gleich dem positven Element ist
@@ -133,7 +132,6 @@ Daraus folgt also
 \begin{aligned}
     \frac{m \omega }{\mathrm{i}} \left( tv^2-2\int vt \mathrm{d}v \right) = 0 .
 \end{aligned}
-```
 
 Da $$W=\frac{1}{\mathrm{i}} \int m \omega v^2  \mathrm{d}t=   \frac{m \omega }{\mathrm{i}} \left( tv^2-2\int vt \mathrm{d}v \right)= 0 $$ ist, man kann es etwas weiter oben sehen, gilt
 
@@ -147,7 +145,6 @@ Der gewonnene Ausdruck
 
 ```math
 m\omega v^2
-```
 
  ist also eine Konstante. Das $$\backslash t$$ bedeutet, dass der Ausdruck explizit nicht von der Zeit abhängt.
 
