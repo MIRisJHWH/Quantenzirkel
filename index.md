@@ -79,12 +79,14 @@ wobei gilt, dass $$\frac{\mathrm{dv}}{\mathrm{d}t}=a$$
 oder umgestellt
 $$\mathrm{d}t=\frac{\mathrm{d}v}{a}$$.
 
-Es wird verwendet, dass $$\frac{1}{a}$$ die Umkehrfunktiond der Zeit nach der Geschwindigkeit ist $$\frac{1}{a}=\frac{\mathrm{d} t}{\mathrm{d} v} \,
+Es wird verwendet, dass $$\frac{1}{a}$$ die Umkehrfunktion der Zeit nach der Geschwindigkeit ist $$\frac{1}{a}=\frac{\mathrm{d} t}{\mathrm{d} v} \,
 $$
 
 Warum darf man das machen? Weil die Zeit abgeleitet nach der Geschwindigkeit die Umkehrfunktion von $$a$$ ist; ohne Beschränkung der Allgemeinheit!
 
-Zurück an die Arbeit:
+$$\frac{1}{a} a = 1$$,
+
+zurück an die Arbeit:
 
 $$
 \begin{align}
