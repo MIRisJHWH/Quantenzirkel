@@ -111,9 +111,7 @@ Gr0ße Foglerung!
 
 Das Integral muss verschwinden!
 $$
-\begin{aligned}
-\frac{1}{\mathrm{i}}m \omega \left( t v^2-2\int vt \mathrm{d}v \right) = \frac{m \omega }{\mathrm{i}} \left(-tv^2 + 2\int t v \mathrm{d} v \right) 
-\end{aligned}
+\frac{1}{\mathrm{i}}m \omega \left( t v^2 - 2\int vt \, \mathrm{d}v \right) = \frac{m \omega}{\mathrm{i}} \left( -tv^2 + 2\int t v \, \mathrm{d}v \right)
 $$
 
 Denn wenn das negative Element gleich dem positven Element ist
