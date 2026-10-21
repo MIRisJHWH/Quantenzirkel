@@ -1,4 +1,3 @@
-
 Als erstes möchte ich den Energie- bzw. den Impulsoperator aus der Kinematik herleiten.
 
 Es gelte:
@@ -36,3 +35,27 @@ $$
 Es ist das herkömmliche Wegintegral aus der klassischen Mechanik.
 
 Jedoch der Clou ist, dass wir jene Kraft mit der Zentrifugalkraft $$\vec{F_Z}=m\omega^2r $$ gleichsetzen.
+
+
+Für $$W$$ setzen wir alle nicht-radialen Anteile gleich 0.
+
+$$
+W=\int \vec{F} \vec{\mathrm{d}s} = \int \vec{F_Z}(\mathrm{d}r \vec{e}_r+r\mathrm{d}\theta\vec{e}_\theta+r\sin \theta \mathrm{d}\varphi \vec{e}_\varphi)     .
+$$
+
+wobei die $$\vec{e}_i$$ Einheitsvektoren in i- Richtung sind.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
