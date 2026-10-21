@@ -34,25 +34,25 @@ $$
 
 Es ist das herkömmliche Wegintegral aus der klassischen Mechanik.
 
-Jedoch der Clou ist, dass wir jene Kraft mit der Zentrifugalkraft $$\vec{F_Z}=m\omega^2r $$ gleichsetzen.
+Jedoch der Clou ist, dass wir jene Kraft mit der Zentalkraft $$\vec{F_Z}=m\omega^2r $$ gleichsetzen.
 
 
-Für $$W$$ setzen wir alle nicht-radialen Anteile gleich 0. In Zylinderkoordianten:
+Für $$W$$ setzen wir alle nicht-radialen Anteile gleich 0. In Kugelkoordianten:
 
 
 $$
-W=\int \vec{F} \vec{\mathrm{d}s} = \int \vec{F_Z}(\mathrm{d}r \vec{e}_r+r\mathrm{d}\theta\vec{e}_\theta+\mathrm{d}z\vec{e}_z)     .
+W=\int \vec{F} \vec{\mathrm{d}s} = \int \vec{F_Z}( \mathrm{d}r \vec{e}_r+r\mathrm{d}\theta\vec{e}_\theta + r \mathrm{sin} \theta \mathrm{d}\varphi \vec{e}_\varphi )     .
 $$
 
-wobei $$\theta$$ der Polarwinkel ist, $$r$$ die Komponente in radiale Richtung, $$z$$ die Komponente in z-Richtung und  die $$\vec{e}_i$$ Einheitsvektoren in i- Richtung sind.
+wobei $$\theta$$ der Azimnnutalwinkel ist, $$r$$ die Komponente in radiale Richtung, $$\varphi $$ der Polarwinkel und  die $$\vec{e}_i$$ Einheitsvektoren in i- Richtung sind.
 
-Für Zylinderkoordianten gilt also
+Für Kugelkoordianten gilt also für die Zentralkraft
 
 $$
 \begin{aligned}
-    W &=\int F_{Z}\mathrm{d}r \ 
-      &= \int m \omega^2 r \mathrm{d}r \
-      &=\frac{1}{\mathrm{i}} \int m \omega v^2 \mathrm{d}t.
+    W &= \int F_{Z}\mathrm{d}r \\
+      &= \int m \omega^2 r \mathrm{d}r \\
+      &= \frac{1}{\mathrm{i}} \int m \omega v^2 \mathrm{d}t.
 \end{aligned}
 $$
 
@@ -63,7 +63,7 @@ Wie können wir uns diesen Aufbau bildlich vorstellen?
 
 Man muss also beachten:
 
-Wenn wir hier von einer Geschwindigkeit reden und davon, dass die Geschwindigkeit mit der Beschleunigung und dem Weg über die Ableitungen zusammenhängen, dann haben wir für unser oszillierendes System lediglich eine Symmetrie entlang des Zylinders, um genau zu sein entlang der z-Achse und dem Polarwinkel $$\theta$$.
+Wenn wir hier von einer Geschwindigkeit reden und davon, dass die Geschwindigkeit mit der Beschleunigung und dem Weg über die Ableitungen zusammenhängen, dann haben wir für unser oszillierendes System lediglich eine Symmetrie entlang des Zylinders, um genau zu sein entlang der z-Achse und dem Polarwinkel $$\theta $$.
 
 Wenn hier also etwas schwingt, was ich hoffe, dann nur entlang des Zylindermantels.
 
@@ -73,7 +73,8 @@ Ob wir hier dem Geheimnis der Materie auf der Spur sind, bleibt verborgen. Immer
 
 An die "Arbeit"!
 
-$$\begin{aligned} W &= \frac{1}{\mathrm{i}} \int m \omega v^2  \mathrm{d}t \\ &= \frac{\mathrm{i}}{\mathrm{i}} \int m \omega v^2 \frac{1}{a}  \mathrm{d}v \end{aligned}$$
+$$\begin{aligned} W &= \frac{1}{\mathrm{i}} \int m \omega v^2  \mathrm{d}t \\ 
+                    &= \frac{\mathrm{i}}{\mathrm{i}} \int m \omega v^2 \frac{1}{a}  \mathrm{d}v \end{aligned}$$
 wobei gilt, dass $$\frac{\mathrm{dv}}{\mathrm{d}t}=a$$
 
 oder umgestellt
@@ -85,24 +86,56 @@ $$
 Warum darf man das machen? Weil die Zeit abgeleitet nach der Geschwindigkeit die Umkehrfunktion von $$a$$ ist; ohne Beschränkung der Allgemeinheit!
 
 $$\frac{1}{a} a = 1$$,
+$$\frac{\mathrm{d} t}{\mathrm{d} v}\frac{\mathrm{d} v}{\mathrm{d}t{}}=\frac{\mathrm{d} t}{\mathrm{d} v}a .$$
+Daraus folgt direkt, dass
+$$\frac{\mathrm{d} t}{\mathrm{d} v} = \frac{1}{a}$$ 
+sein muss.
 
 Zurück an die Arbeit:
 
 
 $$
 \begin{aligned} 
-W &= \frac{1}{\mathrm{i} } \int m \omega v^2 \frac{1}{a} \ \mathrm{d}v \
-&= \frac{1}{\mathrm{i}}m \omega \left( t v^2-2\int vt \mathrm{d}v \right) \
-&= \frac{m \omega}{\mathrm{i}} \left( t v^2-2 \left( t v^2 -\int t v \mathrm{d} v \right)  \right)\ &= \frac{m \omega }{\mathrm{i}} \left(-tv^2 + 2\int t v \mathrm{d} v \right) 
+W &= \frac{1}{\mathrm{i} } \int m \omega v^2 \frac{1}{a} \ \mathrm{d}v \\
+&= \frac{1}{\mathrm{i}}m \omega \left( t v^2-2\int vt \mathrm{d}v \right) \\
+&= \frac{m \omega}{\mathrm{i}} \left( t v^2-2 \left( t v^2 -\int t v \mathrm{d} v \right)  \right)\\ &= \frac{m \omega }{\mathrm{i}} \left(-tv^2 + 2\int t v \mathrm{d} v \right) 
 \end{aligned}
 $$
 
+Gr0ße Foglerung!
+
+Das Integral muss verschwinden!
+$$
+\begin{aligned}
+\frac{1}{\mathrm{i}}m \omega \left( t v^2-2\int vt \mathrm{d}v \right) = \frac{m \omega }{\mathrm{i}} \left(-tv^2 + 2\int t v \mathrm{d} v \right) 
+\end{aligned}
 $$
 
+Denn wenn das negative Element gleich dem positven Element ist
 
+$$
+\begin{aligned}
+    x=-x
+\end{aligned}
+$$
 
+gilt $$x=0$$ .
 
+Daraus folgt also
 
+$$
+\begin{aligned}
+    \frac{m \omega }{\mathrm{i}} \left( tv^2-2\int vt \mathrm{d}v \right) = 0 .
+\end{aligned}$$
+Da $$W=   \frac{m \omega }{\mathrm{i}} \left( tv^2-2\int vt \mathrm{d}v \right)$$ ist, man kann es etwas weiter oben sehen, gilt
+
+$$
+\begin{aligned}
+    m\omega v^2 = \mathrm{Const}(\backslash  t)
+\end{aligned}
+$$
+
+Der gewonnene Ausdruck $$ m\omega v^2 $$ ist also eine Konstante. Das $$\backslash t$$ bedeutet, dass der Ausdruck explizit nicht von der Zeit abhängt.
 
 
 
