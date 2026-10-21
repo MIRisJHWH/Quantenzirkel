@@ -9,7 +9,7 @@ Es gelte weiterhin
 
 $$(\mathrm{i}\omega)^2 s=\mathrm{i}\omega v = a$$.
 
-Es muss sich also um eine harmonische Schwingung handeln.
+Es muss sich also gemäß Startbedingung bzw. Annahme um eine harmonische Schwingung handeln.
 
 Wenn wir die Gleichungen miteinander identifizieren, erhalten wir
 
