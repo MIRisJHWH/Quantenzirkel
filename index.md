@@ -68,7 +68,7 @@ Wenn wir hier von einer Geschwindigkeit reden und davon, dass die Geschwindigkei
 Wenn hier also etwas schwingt, was ich hoffe, dann nur entlang des Zylindermantels.
 
 Als nächstes soll es uns darum gehen, das Arbeitsintegral zu lösen. Wir werden sehen, dass es verschwindet. Über diese Tatsache kann man sich ja insgeheim schon einmal Gedanken machen. Was bedeutet es, dass ein Arbeitsintegral verschwindet? Ich glaube, das hat etwas mit einem konservativem Kraftfeld zu tun.
-Vernutlch wird in unserem oszillierenden System der fundamnetalen Kinematik keine Arbeit entlang der radialen Richtung verrichtet; es könnte sich um einen idealen harmonischen Oszillator handeln.
+Vernutlch wird in unserem oszillierenden System der fundamentalen Kinematik keine Arbeit entlang der radialen Richtung verrichtet; es könnte sich um einen idealen harmonischen Oszillator handeln.
 Ob wir hier dem Geheimnis der Materie auf der Spur sind, bleibt verborgen. Immerhin sind es rein klassische Überlegungen.
 
 
