@@ -74,10 +74,10 @@ Ob wir hier dem Geheimnis der Materie auf der Spur sind, bleibt verborgen. Immer
 An die "Arbeit"!
 
 $$
-\begin{align}
-    W&=\frac{1}{\mathrm{i}} \int m \omega v^2 \mathrm{d}t \\
+\begin{aligned}
+    W&=\frac{1}{\mathrm{i}} \int m \omega v^2 \mathrm{d}t \
     &=\frac{i}{\mathrm{i}} \int m \omega v^2 \frac{1}{a}\mathrm{d}v,
-\end{align}
+\end{aligned}
 $$
 wobei gilt, dass $$\frac{\mathrm{dv}}{\mathrm{d}t}=a$$
 oder umgestellt
