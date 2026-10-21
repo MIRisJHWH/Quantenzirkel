@@ -159,6 +159,9 @@ $$
 ist also eine Konstante. Das $$\backslash t$$ bedeutet, dass der Ausdruck explizit nicht von der Zeit abhängt.
 
 
+$$ a= b + c $$
+
+
 
 
 
