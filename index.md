@@ -59,3 +59,17 @@ $$
 In der obigen Gleichung wurde die Kettenregel $$\mathrm{d}r=v \mathrm{d}t$$ verwendet und unsere Startbedingung $$\mathrm{i}\omega r=v$$ eingesetzt, wobei gelten soll, dass die Geschwindigkeit radial entlang des Zylinders mit dem Weg radial entlang des Zylinders über die imaginäre Einheit $$ \mathrm{i}$$ und die Winkelfrequenz $$\omega$$ verknüpft ist.
 
 Wie können wir uns diesen Aufbau bildlich vorstellen?
+
+Man muss also beachten:
+
+Wenn wir hier von einer Geschwindigkeit reden und davon, dass die Geschwindigkeit mit der Beschleunigung und dem Weg über die ABleitungen zusammenhägen, dann haben wir für unser oszillierendes System lediglich eine Symetrie entlang des Zylinders. Um genau zu sein entlang der z-Achse und demn Polarwinkel $$\theta$$.
+
+
+
+
+
+
+
+
+
+
