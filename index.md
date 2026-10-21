@@ -56,7 +56,8 @@ $$
 \end{align}
 $$
 
-In der obigen Gleichung wurde die Kettenregel $$\mathrm{d}r=v \mathrm{d}t$$ verwendet und unsere Startbedingung $$\mathrm{i}\omega r=v$$ eingesetzt, wobei gelten soll, dass die Geschwindigkeit radial entlang des Zylinders mit dem Weg radial entlang des Zylinders über die imaginäre Einheit $$ \mathrm{i}$$ und die Winkelfrequenz $$\omega$$ verknüpft ist.
+
+In der obigen Gleichung wurde die Kettenregel $$\mathrm{d}r=v \mathrm{d}t$$ verwendet und unsere Startbedingung $$\mathrm{i} \omega r=v$$ eingesetzt, wobei gelten soll, dass die Geschwindigkeit radial entlang des Zylinders mit dem Weg radial entlang des Zylinders über die imaginäre Einheit $$ \mathrm{i}$$ und die Winkelfrequenz $$\omega $$ verknüpft ist.
 
 Wie können wir uns diesen Aufbau bildlich vorstellen?
 
@@ -65,6 +66,12 @@ Man muss also beachten:
 Wenn wir hier von einer Geschwindigkeit reden und davon, dass die Geschwindigkeit mit der Beschleunigung und dem Weg über die Ableitungen zusammenhängen, dann haben wir für unser oszillierendes System lediglich eine Symmetrie entlang des Zylinders, um genau zu sein entlang der z-Achse und dem Polarwinkel $$\theta$$.
 
 Wenn hier also etwas schwingt, was ich hoffe, dann nur entlang des Zylindermantels.
+
+Als nächstes soll es uns darum gehen, das Arbeitsintegral zu lösen. Wir werden sehen, dass es verschwindet. Über diese Tatsache kann man sich ja insgeheim schon einmal Gedanken machen. Was bedeutet es, dass ein Arbeitsintegral verschwindet. Ich glaube, das hat etwas mit einem konservativem Kraftfeld zu tun.
+Vernutlch wird in unserem oszillierende System der fundamnetalen Kinematik keine Arbeit entlang der radialen Richtung verrichtet; es könnte sich um einen idealen harmonischen Oszillator handeln.
+Ob wir hier dem Geheimnis der Materie auf der Spur sind, bleibt verborgen. Immerhin sind es rein klassische Überlegungen.
+
+
 
 
 
