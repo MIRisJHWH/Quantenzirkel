@@ -75,7 +75,42 @@ Wenn hier also etwas schwingt, was ich hoffe, dann nur entlang der Kugeloberflä
 
 Nun zum Impulsoperator:
 
+$$
+\begin{aligned}
+W &= \int m\omega^2 rv \mathrm{d}t \\
+W  &= \int \omega p r \mathrm{d}t \\
+  \frac{\mathrm{d} W}{\mathrm{d} t } &= \omega^2 p r \text{.}
+\end{aligned}
+$$
 
+Nach Einsetzen der obigen Beziehung für die Energie $$W=-\mathrm{i} \hbar \frac{\mathrm d }{\mathrm{d} t }$$
+
+folgt:
+
+$$
+-\mathrm{i}\hbar \frac{\mathrm{d^2}}{\mathrm{d}t^2}=-\frac{\mathrm{d}^2}{\mathrm{d}t^2}pr \text{.}
+$$
+Es gilt daher
+$$
+\begin{aligned}
+    \mathrm{i}\hbar =pr \text{.}
+\end{aligned}
+$$
+
+Durch Vergleich beider Seiten sieht man sofort, dass auch der Impuls durch eien Ableitung und zwar nach dem Ort beschrieben werden muss:
+
+Für 
+
+$$
+p=\mathrm{i}\hbar \frac{\mathrm{d}}{\mathrm{d}r}
+$$
+
+können die beiden Seiten in Übereinstimmung gebracht werden:
+
+$$
+\begin{aligned}
+    \mathrm{i}\hbar =\mathrm{i} \hbar \frac{\mathrm{d}}{\mathrm{d}r} r \text{.}
+\end{aligned}$$
 
 Als nächstes soll es uns darum gehen, das Arbeitsintegral zu lösen. Wir werden sehen, dass es verschwindet. Über diese Tatsache kann man sich ja insgeheim schon einmal Gedanken machen. Was bedeutet es, dass ein Arbeitsintegral verschwindet? Ich glaube, das hat etwas mit einem konservativen Kraftfeld zu tun.
 Vernutlch wird in unserem oszillierenden System der fundamentalen Kinematik keine Arbeit entlang der radialen Richtung verrichtet; es könnte sich um einen idealen harmonischen Oszillator handeln.
@@ -157,11 +192,6 @@ $$
 
 
 ist also eine Konstante. Das $$\backslash t$$ bedeutet, dass der Ausdruck explizit nicht von der Zeit abhängt.
-
-
-$$ a= b + c $$
-
-
 
 
 
