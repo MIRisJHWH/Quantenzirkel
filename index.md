@@ -62,7 +62,7 @@ Wie können wir uns diesen Aufbau bildlich vorstellen?
 
 Man muss also beachten:
 
-Wenn wir hier von einer Geschwindigkeit reden und davon, dass die Geschwindigkeit mit der Beschleunigung und dem Weg über die ABleitungen zusammenhägen, dann haben wir für unser oszillierendes System lediglich eine Symetrie entlang des Zylinders. Um genau zu sein entlang der z-Achse und demn Polarwinkel $$\theta$$.
+Wenn wir hier von einer Geschwindigkeit reden und davon, dass die Geschwindigkeit mit der Beschleunigung und dem Weg über die Ableitungen zusammenhängen, dann haben wir für unser oszillierendes System lediglich eine Symmetrie entlang des Zylinders, um genau zu sein entlang der z-Achse und dem Polarwinkel $$\theta$$.
 
 
 
