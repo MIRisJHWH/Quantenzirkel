@@ -1,3 +1,4 @@
+
 Als erstes möchte ich den Energie- bzw. den Impulsoperator aus der Kinematik herleiten.
 
 Es gelte:
@@ -57,15 +58,19 @@ $$
 $$
 
 
-In der obigen Gleichung wurde die Kettenregel $$\mathrm{d}r=v \mathrm{d}t$$ verwendet und unsere Startbedingung $$\mathrm{i} \omega r=v$$ eingesetzt, wobei gelten soll, dass die Geschwindigkeit radial entlang des Zylinders mit dem Weg radial entlang des Zylinders über die imaginäre Einheit $$ \mathrm{i}$$ und die Winkelfrequenz $$\omega $$ verknüpft ist.
+In der obigen Gleichung wurde die Kettenregel $$\mathrm{d}r=v \mathrm{d}t$$ verwendet und unsere Startbedingung $$\mathrm{i} \omega r=v$$ eingesetzt, wobei gelten soll, dass die Geschwindigkeit radial entlang der Kugeloberfläche mit dem Weg radial entlang der Kugeloberfläche über die imaginäre Einheit $$ \mathrm{i}$$ und die Winkelfrequenz $$\omega $$ verknüpft ist.
 
 Wie können wir uns diesen Aufbau bildlich vorstellen?
 
 Man muss also beachten:
 
-Wenn wir hier von einer Geschwindigkeit reden und davon, dass die Geschwindigkeit mit der Beschleunigung und dem Weg über die Ableitungen zusammenhängen, dann haben wir für unser oszillierendes System lediglich eine Symmetrie entlang des Zylinders, um genau zu sein entlang der z-Achse und dem Polarwinkel $$\theta $$.
+Wenn wir hier von einer Geschwindigkeit reden und davon, dass die Geschwindigkeit mit der Beschleunigung und dem Weg über die Ableitungen zusammenhängen, dann haben wir für unser oszillierendes System lediglich eine Symmetrie entlang der Kugeloberfläche mit variierendem Radius, um genau zu sein entlang des Polarwinkels und des Azimutalwinkels
 
-Wenn hier also etwas schwingt, was ich hoffe, dann nur entlang des Zylindermantels.
+Wenn hier also etwas schwingt, was ich hoffe, dann nur entlang der Kugeloberfläche.
+
+Nun zum Impulsoperator:
+
+
 
 Als nächstes soll es uns darum gehen, das Arbeitsintegral zu lösen. Wir werden sehen, dass es verschwindet. Über diese Tatsache kann man sich ja insgeheim schon einmal Gedanken machen. Was bedeutet es, dass ein Arbeitsintegral verschwindet? Ich glaube, das hat etwas mit einem konservativen Kraftfeld zu tun.
 Vernutlch wird in unserem oszillierenden System der fundamentalen Kinematik keine Arbeit entlang der radialen Richtung verrichtet; es könnte sich um einen idealen harmonischen Oszillator handeln.
@@ -136,7 +141,6 @@ $$
 $$
 
 Der gewonnene Ausdruck $$ m\omega v^2 $$ ist also eine Konstante. Das $$\backslash t$$ bedeutet, dass der Ausdruck explizit nicht von der Zeit abhängt.
-
 
 
 
