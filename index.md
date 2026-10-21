@@ -48,11 +48,13 @@ wobei $$\theta$$ der Polarwinkel ist, $$r$$ die Komponente in radiale Richtung, 
 
 Für Zylinderkoordianten gilt also
 
+$$
 \begin{align}
     W &=\int F_{Z}\mathrm{d}r \\ 
       &= \int m \omega^2 r \mathrm{d}r \\
       &=\frac{1}{\mathrm{i}} \int m \omega v^2 \mathrm{d}t.
 \end{align}
+$$
 
 In der obigen Gleichung wurde die Kettenregel $$\mathrm{d}r=v \mathrm{d}t$$ verwendet und unsere Startbedingung $$\mathrm{i}\omega r=v$$ eingesetzt, wobei gelten soll, dass die Geschwindigkeit radial entlang des Zylinders mit dem Weg radial entlang des Zylinders über die imaginäre Einheit $$ \mathrm{i}$$ und die Winkelfrequenz $$\omega$$ verknüpft ist.
 
