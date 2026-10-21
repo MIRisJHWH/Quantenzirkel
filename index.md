@@ -86,12 +86,16 @@ Warum darf man das machen? Weil die Zeit abgeleitet nach der Geschwindigkeit die
 
 $$\frac{1}{a} a = 1$$,
 
-zurück an die Arbeit:
+Zurück an die Arbeit:
+
 
 $$
-\begin{align}
-    
-\end{align}
+\begin{aligned} 
+W &= \frac{1}{\mathrm{i} } \int m \omega v^2 \frac{1}{a} \ \mathrm{d}v \
+&= \frac{1}{\mathrm{i}}m \omega \left( t v^2-2\int vt \mathrm{d}v \right) \
+&= \frac{m \omega}{\mathrm{i}} \left( t v^2-2 \left( t v^2 -\int t v \mathrm{d} v \right)  \right)\ &= \frac{m \omega }{\mathrm{i}} \left(-tv^2 + 2\int t v \mathrm{d} v \right) 
+\end{aligned}
+$$
 
 $$
 
