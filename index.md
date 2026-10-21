@@ -49,11 +49,11 @@ wobei $$\theta$$ der Polarwinkel ist, $$r$$ die Komponente in radiale Richtung, 
 Für Zylinderkoordianten gilt also
 
 $$
-\begin{align}
-    W &=\int F_{Z}\mathrm{d}r \\ 
-      &= \int m \omega^2 r \mathrm{d}r \\
+\begin{aligned}
+    W &=\int F_{Z}\mathrm{d}r \ 
+      &= \int m \omega^2 r \mathrm{d}r \
       &=\frac{1}{\mathrm{i}} \int m \omega v^2 \mathrm{d}t.
-\end{align}
+\end{aligned}
 $$
 
 
