@@ -45,6 +45,10 @@ $$
 
 wobei die $$\vec{e}_i$$ Einheitsvektoren in i- Richtung sind.
 
+Es folgt
+
+$$W=\int F_{Z,r}\mathrm{d}r$$.
+
 
 
 
