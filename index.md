@@ -110,9 +110,8 @@ $$
 Gr0ße Foglerung!
 
 Das Integral muss verschwinden!
-$$
-\frac{1}{\mathrm{i}} m \omega \left( t v^2 - 2 \int vt \, \mathrm{d}v \right) = \frac{m \omega}{\mathrm{i}} \left( t v^2 - 2 \int vt \, \mathrm{d}v \right)
-$$
+```math
+\frac{1}{i} m \omega ( t v^2 - 2 \int vt \, dv ) = \frac{m \omega}{i} ( t v^2 - 2 \int vt \, dv )
 
 Denn wenn das negative Element gleich dem positven Element ist
 
