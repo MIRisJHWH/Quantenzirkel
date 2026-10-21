@@ -22,3 +22,7 @@ $$\mathrm{i}\frac{E}{\hbar} = \frac{\mathrm{d}}{\mathrm{d}t}$$
 woraus direkt folgt
 
 $$E=-\mathrm{i\hbar}\frac{\mathrm{d}}{\mathrm{d}t}$$.
+
+Da in der Quantenmechanik lediglich Betragsquadrate einer physikalischen Realität entsprechen, kann das Minus für die Energie vernachlässigt werden. Es wird durch das quadrieren einfach neutralisiert.
+
+
