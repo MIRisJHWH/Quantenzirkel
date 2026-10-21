@@ -1,4 +1,3 @@
-
 Als erstes möchte ich den Energie- bzw. den Impulsoperator aus der Kinematik herleiten.
 
 Es gelte:
