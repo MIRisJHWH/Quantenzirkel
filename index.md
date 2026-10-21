@@ -26,7 +26,7 @@ Da in der Quantenmechanik lediglich Betragsquadrate einer physikalischen Realit�
 
 Im nächsten Schritt soll es uns um den Impulsoperator gehen.
 
-Dafür wenden wir jene weltbewegende Relation an:
+Dafür wenden wir eine weltbewegende Relation an:
 
 $$
 W=\int \vec{F} \vec{\mathrm{d}s}.
@@ -35,7 +35,6 @@ $$
 Es ist das herkömmliche Wegintegral aus der klassischen Mechanik.
 
 Jedoch der Clou ist, dass wir jene Kraft mit der Zentrifugalkraft $$\vec{F_Z}=m\omega^2r $$ gleichsetzen.
-
 
 
 Für $$W$$ setzen wir alle nicht-radialen Anteile gleich 0. In Zylinderkoordianten:
@@ -49,21 +48,12 @@ wobei $$\theta$$ der Polarwinkel ist, $$r$$ die Komponente in radiale Richtung, 
 
 Für Zylinderkoordianten gilt also
 
-$$W=\int F_{Z}\mathrm{d}r$$.
+\begin{align}
+    W &=\int F_{Z}\mathrm{d}r \\ 
+      &= \int m \omega^2 r \mathrm{d}r \\
+      &=\frac{1}{\mathrm{i}} \int m \omega v^2 \mathrm{d}t.
+\end{align}
 
+In der obigen Gleichung wurde die Kettenregel $$\mathrm{d}r=v \mathrm{d}t$$ verwendet und unsere Startbedingung $$\mathrm{i}\omega r=v$$ eingesetzt, wobei gelten soll, dass die Geschwindigkeit radial entlang des Zylinders mit dem Weg radial entlang des Zylinders über die imaginäre Einheit $$ \mathrm{i}$$ und die Winkelfrequenz $$\omega$$ verknüpft ist.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Wie können wir uns diesen Aufbau bildlich vorstellen?
