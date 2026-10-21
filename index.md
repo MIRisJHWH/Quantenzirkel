@@ -132,7 +132,7 @@ $$
 \begin{aligned}
     \frac{m \omega }{\mathrm{i}} \left( tv^2-2\int vt \mathrm{d}v \right) = 0 .
 \end{aligned}$$
-Da $$W=   \frac{m \omega }{\mathrm{i}} \left( tv^2-2\int vt \mathrm{d}v \right)$$ ist, man kann es etwas weiter oben sehen, gilt
+Da $$W=\frac{1}{\mathrm{i}} \int m \omega v^2  \mathrm{d}t=   \frac{m \omega }{\mathrm{i}} \left( tv^2-2\int vt \mathrm{d}v \right)= 0 $$ ist, man kann es etwas weiter oben sehen, gilt
 
 $$
 \begin{aligned}
@@ -141,7 +141,6 @@ $$
 $$
 
 Der gewonnene Ausdruck $$ m\omega v^2 $$ ist also eine Konstante. Das $$\backslash t$$ bedeutet, dass der Ausdruck explizit nicht von der Zeit abhängt.
-
 
 
 
