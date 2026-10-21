@@ -64,6 +64,7 @@ Man muss also beachten:
 
 Wenn wir hier von einer Geschwindigkeit reden und davon, dass die Geschwindigkeit mit der Beschleunigung und dem Weg über die Ableitungen zusammenhängen, dann haben wir für unser oszillierendes System lediglich eine Symmetrie entlang des Zylinders, um genau zu sein entlang der z-Achse und dem Polarwinkel $$\theta$$.
 
+Wenn hier also etwas schwingt, was ich hoffe, dann nur entlang des zylindermantels.
 
 
 
