@@ -112,10 +112,10 @@ Gr0ße Foglerung!
 
 Das Integral muss verschwinden!
 
-$$
+
 ```math
 \frac{1}{i} m \omega ( t v^2 - 2 \int vt \, dv ) = \frac{m \omega}{i} ( t v^2 - 2 \int vt \, dv )
-$$
+
 Denn wenn das negative Element gleich dem positven Element ist
 
 $$
