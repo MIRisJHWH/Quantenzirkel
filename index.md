@@ -71,6 +71,32 @@ Als nächstes soll es uns darum gehen, das Arbeitsintegral zu lösen. Wir werden
 Vernutlch wird in unserem oszillierenden System der fundamentalen Kinematik keine Arbeit entlang der radialen Richtung verrichtet; es könnte sich um einen idealen harmonischen Oszillator handeln.
 Ob wir hier dem Geheimnis der Materie auf der Spur sind, bleibt verborgen. Immerhin sind es rein klassische Überlegungen.
 
+An die "Arbeit"!
+
+$$
+\begin{align}
+    W&=\frac{1}{\mathrm{i}} \int m \omega v^2 \mathrm{d}t \\
+    &=\frac{i}{\mathrm{i}} \int m \omega v^2 \frac{1}{a}\mathrm{d}v,
+\end{align}$$
+wobei gilt, dass $$\frac{\mathrm{dv}}{\mathrm{d}t}=a$$
+oder umgestellt
+$$\mathrm{d}t=\frac{\mathrm{d}v}{a}$$.
+
+Es wird verwendet, dass $$\frac{1}{a}$$ die Umkehrfunktiond der Zeit nach der Geschwindigkeit ist$$\frac{1}{a}=\frac{\mathrm{d}t}{\mathrm{d}v}.
+$$
+
+Warum darf man das machen? Weil die Zeit abgeleitet nach der Geschwindigkeit die Umkehrfunktion von $$a$$ ist; ohne Beschränkung der Allgemeinheit!
+
+Zurück an die Arbeit:
+
+$$
+\begin{align}
+    
+\end{align}
+
+$$
+
+
 
 
 
