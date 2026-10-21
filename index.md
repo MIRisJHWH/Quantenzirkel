@@ -57,7 +57,13 @@ $$
 $$
 
 
-In der obigen Gleichung wurde die Kettenregel $$\mathrm{d}r=v \mathrm{d}t$$ verwendet und unsere Startbedingung $$\mathrm{i} \omega r=v$$ eingesetzt, wobei gelten soll, dass die Geschwindigkeit radial entlang der Kugeloberfläche mit dem Weg radial entlang der Kugeloberfläche über die imaginäre Einheit $$ \mathrm{i}$$ und die Winkelfrequenz $$\omega $$ verknüpft ist.
+In der obigen Gleichung wurde die Kettenregel $$\mathrm{d}r=v \mathrm{d}t$$ verwendet und unsere Startbedingung $$\mathrm{i} \omega r=v$$ eingesetzt, wobei gelten soll, dass die Geschwindigkeit radial entlang der Kugeloberfläche mit dem Weg radial entlang der Kugeloberfläche über die imaginäre Einheit 
+
+
+$$ \mathrm{i}$$
+
+
+und die Winkelfrequenz $$\omega $$ verknüpft ist.
 
 Wie können wir uns diesen Aufbau bildlich vorstellen?
 
