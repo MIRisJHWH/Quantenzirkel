@@ -77,7 +77,8 @@ $$
 \begin{align}
     W&=\frac{1}{\mathrm{i}} \int m \omega v^2 \mathrm{d}t \\
     &=\frac{i}{\mathrm{i}} \int m \omega v^2 \frac{1}{a}\mathrm{d}v,
-\end{align}$$
+\end{align}
+$$
 wobei gilt, dass $$\frac{\mathrm{dv}}{\mathrm{d}t}=a$$
 oder umgestellt
 $$\mathrm{d}t=\frac{\mathrm{d}v}{a}$$.
