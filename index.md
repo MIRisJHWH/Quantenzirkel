@@ -148,7 +148,7 @@ W &= \frac{1}{\mathrm{i} } \int m \omega v^2 \frac{1}{a} \ \mathrm{d}v \\
 \end{aligned}
 $$
 
-Gr0ße Foglerung!
+Gr0ße Folgerung!
 
 
 Das Integral muss verschwinden!
